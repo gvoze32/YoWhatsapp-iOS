@@ -1,0 +1,38 @@
+YoiOSx for CYoWA.
+
+CYOWA 8.0++ V3 - V2.0-all Clone & Uncloned version
+https://yadi.sk/d/RuVx5QFtw7jiiw
+
+Mirror: https://drive.google.com/file/d/19jVAcsmwVmsE3_ljl1h6A9vK6Pj_pywP/view?usp=drivesdk
+
+YoiOSxv9build2
+http://adena.me/YoiOSxv9build2%20for%20CYoWA.zip
+
+Change font to Helvetica or Roboto Light on YoWA-Universal-Style, for better look
+
+Backup chat from official WhatsApp to drive first, then restore to CYoWA.
+
+Note: Root needed & original WhatsApp
+
+1. Install original WhatsApp for about 1 hour
+2. Activy magisk core on magisk
+3. Reboot
+4. Download lucky patcher
+5. Open lucky patcher then choose tool
+6. Choose patch to android
+7. Choose option 3rd (Turn off signature validation)
+8. Wait till finish
+9. Once done, install CYoWA
+
+Join group chat CYoWA  https://chat.whatsapp.com/G8XM90J7WGcCAjx0qhOSig
+
+Another theme
+https://t.me/Aikmk
+
+Changelog:
+v9build2
+Dark mode color bug fixes
+v9:
+Added dark and tab mode
+
+Modified by gvoze32 (Syafa Adena) & Alief Dewa Pratama
