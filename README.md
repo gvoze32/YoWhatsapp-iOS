@@ -11,8 +11,11 @@
 ## YoiOSx
 YoiOSx is theme for CYoWA WhatsApp Mod, we change the color for better looks, like light theme and dark theme, also there's a tab and non-tab varian. 
 
+### Usage
+Simply extract the zip file and go to YoMods - YoThemes - Load Theme then locate the xml file.
+
 ### Tips
-Change font to Helvetica or Roboto Light on YoWA-Universal-Style, for better look
+Change font to Helvetica or Roboto Light on YoWA-Universal-Style, for better look.
 
 Backup chat from official WhatsApp to drive first, then restore to CYoWA.
 
@@ -49,4 +52,7 @@ v9:
 Added dark and tab mode
 ```
 
-Modified by gvoze32 & Alief Dewa Pratama
+**Contributor**
+
+- gvoze32
+- Alief Dewa Pratama
