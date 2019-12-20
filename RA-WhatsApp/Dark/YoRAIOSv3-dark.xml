@@ -176,7 +176,7 @@
     <int name="RcStatusTitle" value="-16777216" />
     <int name="ModConDarkColor" value="-263173" />
     <int name="RcsetTarg" value="-1579033" />
-    <int name="date_right_color" value="-16777216" />
+    <int name="date_right_color" value="-1" />
     <int name="emojipopup_body" value="-16777216" />
     <string name="chats_play_contact_online_tone"></string>
     <boolean name="emojipopup_body_Gactive" value="false" />
@@ -228,7 +228,7 @@
     <boolean name="rcname_color_Gactive" value="false" />
     <boolean name="HomeCounterText_Gactive" value="false" />
     <boolean name="RcTextTab_Gactive" value="false" />
-    <int name="date_left_color" value="-16777216" />
+    <int name="date_left_color" value="-1" />
     <boolean name="ModDarkConPickColor_Gactive" value="false" />
     <boolean name="ModChatBubbleText_Gactive" value="false" />
     <int name="rcMicColor" value="-16753441" />
