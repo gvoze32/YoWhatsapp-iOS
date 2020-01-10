@@ -26,7 +26,7 @@
     <boolean name="dial_bg_Gactive" value="false" />
     <boolean name="HomeBarText_Gactive" value="false" />
     <int name="rcCard1" value="-2705930" />
-    <int name="ModWdgTitleColor" value="-16645630" />
+    <int name="ModWdgTitleColor" value="-772" />
     <int name="rcCard2" value="-1507585" />
     <int name="rcCard3" value="-1832" />
     <int name="rcAttachIcon" value="-16753441" />
@@ -85,7 +85,7 @@
     <boolean name="quoted_divider_picker_Gactive" value="false" />
     <boolean name="HomeBarBar_Gactive" value="false" />
     <boolean name="ModChaSendColor_Gactive" value="false" />
-    <int name="ModChatEmojiColor" value="-1" />
+    <int name="ModChatEmojiColor" value="-16777216" />
     <boolean name="rcAttachBk_Gactive" value="false" />
     <int name="ModChaSendColor" value="-1" />
     <int name="pagetitle_sel_picker" value="-1" />
@@ -123,7 +123,7 @@
     <int name="RcBkTabs_GCDir" value="2" />
     <boolean name="my_name" value="false" />
     <boolean name="TxtSelect" value="false" />
-    <int name="pagetitle_picker" value="-1" />
+    <int name="pagetitle_picker" value="-2894893" />
     <int name="ModFabColor" value="-16777216" />
     <int name="rcname_color_sub" value="-8224126" />
     <int name="ModChatDarkColor" value="-263173" />
@@ -188,7 +188,7 @@
     <int name="ModChatLeftBubble" value="-11513776" />
     <boolean name="ModChaSendBKColor_Gactive" value="false" />
     <boolean name="start_bl" value="false" />
-    <int name="yoTostC" value="-1" />
+    <int name="yoTostC" value="-16777216" />
     <boolean name="pagetitle_sel_picker_Gactive" value="false" />
     <boolean name="chat_icon_forward_picker_Gactive" value="false" />
     <boolean name="yo_want_airplanemode" value="false" />
@@ -200,7 +200,7 @@
     <boolean name="RcsetTarg_Gactive" value="false" />
     <int name="yoTostT" value="-1" />
     <boolean name="chat_mypicV2" value="false" />
-    <int name="ModConTextColor" value="-3815995" />
+    <int name="ModConTextColor" value="-1" />
     <int name="ModFabNormalColor_GC" value="-16102475" />
     <int name="attachbg" value="-16777216" />
     <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
@@ -254,7 +254,7 @@
     <int name="statuses_bar_text_picker" value="-1" />
     <boolean name="attachbg_Gactive" value="false" />
     <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
-    <int name="ModWdgStatusColor" value="-11645362" />
+    <int name="ModWdgStatusColor" value="-1" />
     <boolean name="rcCard2_Gactive" value="true" />
     <int name="status_nw" value="-1" />
     <int name="row_resizer" value="0" />
