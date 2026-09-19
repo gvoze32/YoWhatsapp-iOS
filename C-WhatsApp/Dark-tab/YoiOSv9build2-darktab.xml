@@ -132,7 +132,7 @@
     <boolean name="disable_background" value="true" />
     <boolean name="quoted_text_picker_Gactive" value="false" />
     <int name="background_ig" value="-526345" />
-    <string name="home">2</string>
+    <string name="home">1</string>
     <boolean name="RcTargetColor_Gactive" value="false" />
     <boolean name="ModConPickColor_Gactive" value="false" />
     <string name="HomeEntry">yousef</string>
